@@ -34,12 +34,12 @@ Usage:
 
             public void onError(String msg) {
 	            // download error
-	    }
+            }
 
             public void onProgressChange(long fileSize, long downloadedSize) {
 	            // download progress change
             }
-        };
+	};
 
 	mFileDownloader.add("/sdcard/TencentVideo9.9.970.0.exe", "http://dldir1.qq.com/qqtv/TencentVideo9.9.970.0.exe", listener);
 
