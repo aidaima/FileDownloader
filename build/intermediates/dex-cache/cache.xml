@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/media/job/dev/android/AndroidStudioProjects/FileDownloader/demo/build/intermediates/exploded-aar/FileDownloader/lib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="5e3b81f4c87ff6e9bf4c98a5620eff1efccf2f47">
+        <dex dex="/media/job/dev/android/AndroidStudioProjects/FileDownloader/demo/build/intermediates/pre-dexed/debug/classes-497aeced5154bd9f1c6954bbe6a17580fd3bafe2.jar" />
+    </item>
+    <item
+        jar="/media/job/dev/android/AndroidStudioProjects/FileDownloader/demo/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/media/job/dev/android/AndroidStudioProjects/FileDownloader/demo/build/intermediates/pre-dexed/debug/classes-00f0748bf8f693c6a0afdf44b35a08398f459c8a.jar" />
+    </item>
+    <item
+        jar="/home/maple/.gradle/caches/modules-2/files-2.1/org.jbundle.util.osgi.wrapped/org.jbundle.util.osgi.wrapped.org.apache.http.client/4.1.2/98c86e42679fe7ac066f6c242e0d14f0bce0bb7c/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="/media/job/dev/android/AndroidStudioProjects/FileDownloader/demo/build/intermediates/pre-dexed/debug/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2-0d71e7b5c12b1cf2fded1f7e4442b08d9e751015.jar" />
+    </item>
+    <item
+        jar="/media/job/dev/android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/media/job/dev/android/AndroidStudioProjects/FileDownloader/demo/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-0fd493aa6e90eb2955be57b6ce46c70e0f8dfb54.jar" />
+    </item>
+    <item
+        jar="/media/job/dev/android/AndroidStudioProjects/FileDownloader/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/media/job/dev/android/AndroidStudioProjects/FileDownloader/demo/build/intermediates/pre-dexed/debug/classes-e41391f2f0c37b77f535528e3277ddfacf20e3e2.jar" />
+    </item>
+    <item
+        jar="/media/job/dev/android/AndroidStudioProjects/FileDownloader/demo/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/media/job/dev/android/AndroidStudioProjects/FileDownloader/demo/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-a67110ff87cab0ec6432529b18f53e5267a6b6fb.jar" />
+    </item>
+
+</items>
